@@ -47,6 +47,3 @@ _"Pizza is not just food, it's an experience!"_ 🍕
 - Delna Sophia Dsouza 👩‍💻
 - Mary John 👩‍💻
 - Tsai-Yun Hsieh 👨‍💻
-
-## Contact
-Email: your-email@example.com ✉️
